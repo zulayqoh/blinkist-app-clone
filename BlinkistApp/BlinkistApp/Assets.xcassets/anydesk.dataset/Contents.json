@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "anydesk.dmg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
